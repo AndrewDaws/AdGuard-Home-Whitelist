@@ -1,6 +1,8 @@
 # My Adguard Home whitelist
 # Instagram
 @@||cdninstagram.com^$important
+@@||instagram.com^$important
+@@||instagram.c10r.facebook.com^$important
 # F1 TV
 @@||f1-prod-production.apigee.net^$important
 @@||f1-prod-production.dn.apigee.net^$important
@@ -82,6 +84,8 @@
 @@||akamaitechnologies.com^$important
 @@||akamaized.net^$important
 @@||widget-cdn.rpxnow.com^$important
+@@||akamai.net^$important
+@@||akadns.net^$important
 # Sonarr TV Soft
 @@||apt.sonarr.tv^$important
 @@||download.sonarr.tv^$important
@@ -305,3 +309,8 @@
 @@||svc90.main.px.t-online.de^$important
 # Earthquake App
 @@||fe-lb.tranquilli.org^$important
+# Reddit
+@@||reddit.com^$important
+# WhatsApp
+@@||whatsapp.net^$important
+@@||whatsapp.com^$important
