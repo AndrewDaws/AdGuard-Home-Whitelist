@@ -20,7 +20,7 @@
 @@||clients5.google.com^$important
 @@||clients6.google.com^$important
 @@||cse.google.com^$important
-@@||googleapis.com^$important
+@@||googleapis.com^$important,denyallow=androidtvwatsonfe-pa.googleapis.com
 @@||gstatic.com^$important
 @@||manifest.googlevideo.com^$important
 @@||redirector.googlevideo.com^$important
